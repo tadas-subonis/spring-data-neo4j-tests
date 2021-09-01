@@ -17,7 +17,7 @@
         <junit.version>4.10</junit.version>
         <spring-data-neo4j.version>2.1.0.RC2</spring-data-neo4j.version>
         <!--<spring-data-neo4j.version>2.0.1.RELEASE</spring-data-neo4j.version>-->
-        <neo4j.version>1.8.M06</neo4j.version>
+        <neo4j.version>3.5.0</neo4j.version>
         <!--<neo4j.version>1.6.3</neo4j.version>-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <vaadin.version>6.8.0</vaadin.version>
